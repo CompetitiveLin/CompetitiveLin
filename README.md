@@ -1,5 +1,5 @@
-### Hi there 👋! I'm CompetitiveLin.
-<h2> Currently studying @ Zhejiang University of Technology </h2>
+## Hi there 👋! I'm CompetitiveLin.
+## Currently studying @ Zhejiang University of Technology
 
 ![](https://komarev.com/ghpvc/?username=CompetitiveLin&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -30,7 +30,7 @@
 ![CompetitiveLin's github stats](https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&line_height=30)
 
 
-## 📝 More information
+## 📝 More Information
 
 - **Homepage**: <https://CompetitiveLin.github.io/>
 - **About me**: <https://CompetitiveLin.github.io/about/>
