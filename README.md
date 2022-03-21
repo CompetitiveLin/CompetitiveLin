@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋! I'm CompetitiveLin.
+<h2> Currently studying @ Zhejiang University of Technology </h2>
 
+![](https://komarev.com/ghpvc/?username=CompetitiveLin&label=Profile%20views&color=0e75b6&style=flat)
 <!--
 **CompetitiveLin/CompetitiveLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
