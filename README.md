@@ -1,5 +1,4 @@
-## Hi there 👋! I'm CompetitiveLin.
-## Currently studying @ Zhejiang University of Technology
+## Hi there 👋! I'm CompetitiveLin. Currently studying @ Zhejiang University of Technology
 
 ![](https://komarev.com/ghpvc/?username=CompetitiveLin&label=Profile%20views&color=0e75b6&style=flat)
 
