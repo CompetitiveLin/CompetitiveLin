@@ -1,4 +1,4 @@
-## Hi there 👋! I'm CompetitiveLin. Currently studying @ Zhejiang University of Technology
+## Hi there 👋! I'm CompetitiveLin. Currently studying @ East China Normal University
 
 ![](https://komarev.com/ghpvc/?username=CompetitiveLin&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -19,6 +19,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Microsoft OneDrive](https://img.shields.io/badge/Microsoft_OneDrive-333333?style=flat&logo=Microsoft+OneDrive)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![Idea](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea)
 
 ### 💻 Workspace
 ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
