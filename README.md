@@ -2,10 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CompetitiveLin&label=Profile%20views&color=0e75b6&style=flat)
 
-
-
-
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompetitiveLin&layout=compact&hide_border=true) -->
 
 
 ## ⚡ Tech Stack
@@ -25,9 +22,11 @@
 ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu)
 
-## 📈 Github Stats
+## 📊 Leetcode Stats
+![CompetitiveLin's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=CompetitiveLin&cn=true&theme=dark)
 
-![CompetitiveLin's github stats](https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&line_height=30)
+## 📈 Github Stats
+![CompetitiveLin's github stats](https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&count_private=true&theme=swift)
 
 
 ## 📝 More Information
