@@ -29,6 +29,9 @@
 ![CompetitiveLin's github stats](https://github-readme-stats.vercel.app/api?username=CompetitiveLin&show_icons=true&count_private=true&theme=swift)
 
 
+## 🐍 Github Contributions
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 ## 📝 More Information
 
 - **Homepage**: <https://CompetitiveLin.github.io/>
