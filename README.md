@@ -7,22 +7,35 @@
 
 ## ⚡ Tech Stack
 
-### 🚀 Languages
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+### 🚀 Programming Languages
+  ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+  ![JAVA](https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java&logoColor=white&style=flat)
+  ![LaTex](https://img.shields.io/badge/LaTex-008080?logo=LaTex&logoColor=white&style=flat)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C?logo=database&logoColor=white&style=flat)
   
-### 🧩 Tools & Platform
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=githubactions)
-  ![Microsoft OneDrive](https://img.shields.io/badge/Microsoft_OneDrive-333333?style=flat&logo=Microsoft+OneDrive)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-  ![Idea](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea)
+### 🗄️ Databases & Cloud Hosting
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+  ![GitHub_Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=github%20pages&logoColor=white&style=flat)
+  ![Mongodb](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  
+### 🧩 Software & Tools
+  ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=flat)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+  ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?logo=github&logoColor=white&style=flat)
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
+  ![Microsoft OneDrive](https://img.shields.io/badge/Microsoft_OneDrive-0078D4?logo=Microsoft+OneDrive&logoColor=white&style=flat)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ### 💻 Workspace
-![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu)
+![Ubuntu 18.04](https://img.shields.io/badge/Ubuntu%2018.04-E95420?logo=ubuntu&logoColor=white&style=flat)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows&logoColor=white&style=flat)
 
 ## 📈 Github Stats
 
